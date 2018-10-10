@@ -1,4 +1,4 @@
-# GRM-Normalization-and-noise-reduction-for-single-cell-RNA-seq-experiments
+# GRM:Normalization and noise reduction for single cell RNA seq experiments
 R codes for GRM 
 The model is built based on generalized linear regression for single cell RNA-seq data. 
 For any details regarding to scripts, please contact Lina Zheng. 
